@@ -52,7 +52,7 @@ of search-based optimization for exploring models
 </td>
 <td valign=top  xwidth="100px">
 
-9. <a href="src/PSO.md">PSO</a><br>
+9. <a href="PSO.md">PSO</a><br>
 8. <a href="src/gadgets.md">Gadgets</a><br>
 7. <a href="DE.md">DE</a><br>
 6. <a href="src/doc/Hoa-NCSU-2015.pdf">Effort Estimation<br> (Dr. Hoa's talk)</a><br>
